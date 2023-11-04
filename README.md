@@ -19,7 +19,7 @@
 
 
 ## 学生ロボコン 2022 優勝
-<img src="images/IMG_9271.JPG" width="49.5%"> <img src="images/IMG_9269.JPG" width="49.5%">
+<img src="images/IMG_9271.JPG" width="49.7%"> <img src="images/IMG_9269.JPG" width="49.7%">
 ![nhk2022_win](images/IMG_9327.JPG)
 
 ### 担当
@@ -38,6 +38,7 @@
 * 2台のロボットの操縦者
 
 ## 東海地区交流ロボコン 2021 優勝
-
+![tourobo_robot](images/IMG_8467.JPG)
+![tourobo_win](images/tourobo2021.gif)
 
 ## 
