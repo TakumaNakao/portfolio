@@ -33,7 +33,9 @@
 ![abu2022_robot](images/IMG_9556.JPG)
 ![abu2022_movie](images/IMG_2958.gif)
 
-[ライブ配信](https://www.youtube.com/watch?v=GEz8ktGMHKE&ab_channel=ROBOCONOfficial%5Brobotcontest%5D)
+[ライブ配信](https://youtu.be/GEz8ktGMHKE)  
+&emsp;[vs 香港](https://youtu.be/GEz8ktGMHKE?t=9644)  
+&emsp;[vs 中国](https://youtu.be/GEz8ktGMHKE?t=15276)  
 
 ### 担当
 #### R1ロボット (画像左) の全制御
@@ -55,7 +57,10 @@
 <img src="images/IMG_9271.JPG" width="49.7%"> <img src="images/IMG_9269.JPG" width="49.7%">
 ![nhk2022_win](images/IMG_9327.JPG)
 
-[ライブ配信](https://www.youtube.com/watch?v=juYlfcXIgFk&ab_channel=ROBOCONOfficial%5Brobotcontest%5D)
+[ライブ配信](https://youtu.be/juYlfcXIgFk)  
+&emsp;[vs 新潟大学](https://youtu.be/juYlfcXIgFk?t=12778)  
+&emsp;[vs 東京工科大学](https://youtu.be/juYlfcXIgFk?t=14175)  
+&emsp;[vs 金沢工業大学](https://youtu.be/juYlfcXIgFk?t=15974)  
 
 ### 担当
 #### R1ロボット (画像左) の全制御
@@ -77,6 +82,8 @@
 ![tourobo_robot](images/IMG_8467.JPG)
 ![tourobo_win](images/tourobo2021.gif)
 
+[公式動画](https://youtu.be/r3PSpSyNytc)  
+
 ### 担当
 #### ロボットの全制御
 * 足回り制御（独立4輪ステアリング）
@@ -89,7 +96,9 @@
 ![robomaster_winter_robot](images/IMG_6849.JPG)
 ![inf_turn](images/inf_turn.gif)
 
-[ライブ配信](https://www.youtube.com/watch?v=zRlnwMaVExo&ab_channel=RoboMasterJapanCommunity)
+[ライブ配信](https://youtu.be/P0eWW-5VMdE)  
+&emsp;[vs OOEDO SAMRAI](https://youtu.be/P0eWW-5VMdE?t=18268)  
+
 
 ### 担当
 #### 3台のロボットの制御
@@ -102,7 +111,9 @@
 ## RoboMaster 2019 Japan Summer Camp 優勝 (Scramble)
 ![robomaster_summer_robot](images/IMG_6477.JPG)
 
-[ライブ配信](https://www.youtube.com/watch?v=BjuciTLCysc&ab_channel=RoboMasterJapanCommunity)
+[ライブ配信](https://youtu.be/BjuciTLCysc)  
+&emsp;[vs OSAKA TAKOYAKI](https://youtu.be/BjuciTLCysc?t=21765)  
+&emsp;[vs FUKUOKA NIWAKA杠](https://youtu.be/BjuciTLCysc?t=31958)  
 
 ### 担当
 #### 2台のロボットの全制御
@@ -114,7 +125,8 @@
 ## 高専ロボコン 2018 近畿地区大会 技術賞 (舞鶴高専Bチーム)
 <img src="images/IMG_5535.JPG" width="49.7%"> <img src="images/IMG_5537.JPG" width="49.7%">
 
-[ライブ配信](https://www.youtube.com/watch?v=VNDaD8h3bwo&ab_channel=ROBOCONOfficial%5Brobotcontest%5D)
+[ライブ配信](https://youtu.be/VNDaD8h3bwo)  
+&emsp;[vs 神戸高専Aチーム](https://youtu.be/VNDaD8h3bwo?t=8318)  
 
 ### 担当
 #### 2台のロボットの全制御
@@ -131,7 +143,9 @@
 ## 近畿地区合同ロボコン 2018 合ロボ大賞 (舞鶴高専Bチーム)
 ![gorobo2018_robot](images/IMG_4846.JPG)
 
-[ライブ配信](https://www.youtube.com/watch?v=EfnJvspgEZU&ab_channel=%E8%BF%91%E7%95%BF%E5%9C%B0%E5%8C%BA%E5%90%88%E5%90%8C%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3)
+[ライブ配信](https://youtu.be/EfnJvspgEZU)  
+&emsp;[vs 香川高専高松キャンパス](https://youtu.be/EfnJvspgEZU?t=2416)  
+&emsp;[エキシビジョン](https://youtu.be/EfnJvspgEZU?t=7826)  
 
 ### 担当
 #### ロボットの全制御
