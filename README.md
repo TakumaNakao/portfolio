@@ -78,8 +78,39 @@
 * 射出制御
 * その他機構制御
 
-## 高専ロボコン 2018 近畿地区大会 技術賞 (舞鶴高専)
+## 高専ロボコン 2018 近畿地区大会 技術賞 (舞鶴高専Bチーム)
 <img src="images/IMG_5535.JPG" width="49.7%"> <img src="images/IMG_5537.JPG" width="49.7%">
-<video controls src="https://movie-a.nhk.or.jp/sns/DfW/tg5nb92y.html" muted="false"></video>
 
 [ライブ配信](https://www.youtube.com/watch?v=VNDaD8h3bwo&ab_channel=ROBOCONOfficial%5Brobotcontest%5D)
+
+### 担当
+#### 2台のロボットの制御
+* 動作の自動化
+* 足回り制御
+* 自己位置推定
+* 全機構制御
+* フィールドオブジェクト検出
+* コントローラ作成
+
+#### その他
+* チームリーダー
+
+## 近畿地区合同ロボコン 2018 合ロボ大賞 (舞鶴高専Bチーム)
+![gorobo2018_robot](images/IMG_4846.JPG)
+
+[ライブ配信](https://www.youtube.com/watch?v=EfnJvspgEZU&ab_channel=%E8%BF%91%E7%95%BF%E5%9C%B0%E5%8C%BA%E5%90%88%E5%90%8C%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3)
+
+### 担当
+#### ロボットの制御
+* 動作の半自動化
+* 全機構制御
+* コントローラ作成
+
+# 趣味開発
+## 点群マッチング
+<img src="images/point_cloud_matching.gif" width="49.7%"> <img src="images/point_cloud_to_line_matching.gif" width="49.7%">
+[リポジトリ](https://github.com/TakumaNakao/mathematical_robotics)
+
+## メタヒューリスティクスアルゴリズム
+<img src="images/particle_swarm_optimization.gif" width="49.7%"> <img src="images/differential_evolution.gif" width="49.7%">
+[リポジトリ](https://github.com/TakumaNakao/metaheuristics_optimization)
