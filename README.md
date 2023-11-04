@@ -10,7 +10,7 @@
 * 経路生成
 
 ## 学生ロボコン 2022 優勝
-![nhk2022_r1](/images/IMG_9277.JPG)
+<img src="images/IMG_9271.JPG" width="49.5%"> <img src="images/IMG_9269.JPG" width="49.5%">
 ![nhk2022_win](/images/IMG_9327.JPG)
 
 ## 東海地区交流ロボコン 2021 優勝
