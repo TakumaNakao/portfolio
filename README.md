@@ -174,3 +174,6 @@ SI2023
 ## メタヒューリスティクスアルゴリズム
 <img src="images/particle_swarm_optimization.gif" width="49.7%"> <img src="images/differential_evolution.gif" width="49.7%">
 [リポジトリ](https://github.com/TakumaNakao/metaheuristics_optimization)
+
+# クレジット
+[VoiceGate](https://vidweb.co.jp/voicegate/)
